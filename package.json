@@ -1,0 +1,25 @@
+{
+  "name": "alfred",
+  "version": "1.0.0",
+  "description": "Master Wayne's own Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/czarcasm/dummyBot.git"
+  },
+  "keywords": [
+    "czarcasm",
+    "bot",
+    "kik"
+  ],
+  "author": "Czarcasm",
+  "license": "MIT",
+  "dependencies": {
+    "@kikinteractive/kik": "^2.2.1",
+    "http": "0.0.0",
+    "request": "^2.83.0"
+  }
+}
