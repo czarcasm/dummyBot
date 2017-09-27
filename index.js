@@ -23,8 +23,7 @@ bot.onTextMessage((message) => {
  
         } else {
  
-            answer = "Oops, Looks like Susi is taking a
-            break, She will be back soon";
+            answer = "Oops, Looks like Susi is taking a break, She will be back soon";
  
         }
  
